@@ -1,0 +1,2 @@
+#!/bin/bash
+mjdir  -m 751 my_dir
